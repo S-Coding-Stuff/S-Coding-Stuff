@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Final Year MSci Mathematics and Computer Science student currently working on Pricing American Options through the Monte Carlo Approach.<br>🤝 I’m looking for help with I’m looking for help with AI Engineering, specifically in Transformer models, GANs and Reinforcement Learning.<br>🌱 I’m currently learning advanced ML techniques, data analysis, and mathematics for financial derivatives.<br>💬 Ask me about Machine Learning techniques and theory, Deep Learning models, Applied Mathematics, Financial Engineering or Python.
+🔭 Final Year MSci Mathematics and Computer Science student currently working on Pricing American Options through the Monte Carlo Approach.<br>🤝 I’m looking for help with AI Engineering, specifically in Transformer models, GANs and Reinforcement Learning.<br>🌱 I’m currently learning advanced ML techniques, data analysis, and mathematics for financial derivatives.<br>💬 Ask me about Machine Learning techniques and theory, Deep Learning models, Applied Mathematics, Financial Engineering or Python.
 
 
 ## 🌐 Socials:
